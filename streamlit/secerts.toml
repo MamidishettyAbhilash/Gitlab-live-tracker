@@ -1,0 +1,4 @@
+[gitlab]
+token = "glpat-xrz_S-EFUJveFNVSsQvR"
+base_url = "https://gitlab.com/api/v4"
+
